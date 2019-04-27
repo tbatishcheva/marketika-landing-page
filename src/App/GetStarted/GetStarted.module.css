@@ -1,0 +1,37 @@
+.getStartedWrapper {
+    display: flex;
+    justify-content: center;
+    background: var(--gradient-background);
+}
+
+.getStarted {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 121px;
+    margin-bottom: 120px;
+}
+
+.title {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 55px;
+    line-height: 60px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.subtitle {
+    margin-top: 28px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.linkWrapper {
+    margin-top: 35px;
+}

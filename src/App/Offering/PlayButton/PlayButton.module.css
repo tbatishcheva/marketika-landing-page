@@ -1,0 +1,13 @@
+.playButton {
+    width: 84px;
+    height: 84px;
+    border-radius: 50%;
+    position: relative;
+    background: var(--gradient-background);
+}
+
+.play {
+    position: absolute;
+    top: 42%;
+    left: 46%;
+}

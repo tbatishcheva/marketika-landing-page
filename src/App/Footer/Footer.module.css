@@ -1,0 +1,51 @@
+.footerWrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 86px;
+    margin-bottom: 93px;
+}
+
+.menuWrapper {
+    margin-top: 29px;
+}
+
+.menuItemWrapper {
+    margin-right: 80px;
+}
+
+.menuItemWrapper:last-child {
+    margin-right: 0;
+}
+
+.bottomInfo {
+    margin-top: 74px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    color: #464646;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.bottomText {
+    margin: 0 15px;
+}
+
+.bottomText:last-child {
+    margin: 0 0 0 15px;
+}
+
+.bottomText:first-child {
+    margin: 0;
+}

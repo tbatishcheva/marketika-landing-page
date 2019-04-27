@@ -1,0 +1,48 @@
+.offeringWrapper {
+    display: flex;
+    justify-content: center;
+    margin-top: 117px;
+}
+
+.offering {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 1px solid #E2E2E2;
+    width: 100%;
+    padding-bottom: 120px;
+}
+
+.textContent {
+    padding-right: 95px;
+}
+.title {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 51px;
+    color: #414141;
+}
+
+.offeringCardWrapper{
+    margin-top: 57px;
+}
+
+.offeringCardWrapperLastItem {
+    margin-top: 29px;
+}
+
+.mediaContent {
+    position: relative;
+}
+
+.video {
+    display: block;
+    border-radius: 8px;
+}
+
+.playWrapper {
+    position: absolute;
+    top: 40%;
+    left: 46%;
+}

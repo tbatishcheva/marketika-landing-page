@@ -1,0 +1,38 @@
+.link {
+    padding: 15px 50px;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+.linkWithoutBG {
+    background: #FFFFFF;
+}
+
+.linkWithBG {
+    background: var(--gradient-background);
+}
+
+.linkWithoutBorder {
+    border: none;
+}
+
+.linkWithBorder {
+    border: 1px solid #979797;
+}
+
+.alink {
+    text-decoration: none;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+}
+
+.aLinkWithoutBG {
+    color: #FFFFFF;
+}
+
+.aLinkWithBG {
+    color: #414141;
+}

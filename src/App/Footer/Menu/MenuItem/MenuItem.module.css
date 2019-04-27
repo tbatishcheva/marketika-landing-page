@@ -1,0 +1,13 @@
+.title {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #464646;
+}
+
+.titleIsColored {
+    color: #FE50A6;
+}

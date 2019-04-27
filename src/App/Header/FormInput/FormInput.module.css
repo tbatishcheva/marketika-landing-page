@@ -1,0 +1,23 @@
+.formInput {
+    background: #FFFFFF;
+    mix-blend-mode: normal;
+    opacity: 0.25;
+    border-radius: 4px;
+}
+
+input[type="text"] {
+    padding: 17px 0 17px 20px;
+    width: 375px;
+    border-radius: 4px;
+}
+
+input[type="text"]::placeholder {
+    color: red;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    /*color: #FFFFFF;*/
+}
+
+

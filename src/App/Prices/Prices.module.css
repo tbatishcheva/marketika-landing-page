@@ -1,0 +1,35 @@
+.pricesWrapper {
+    display: flex;
+    justify-content: center;
+    margin-top: 117px;
+    margin-bottom: 150px;
+}
+
+.prices {
+    width: 703px;
+}
+
+.title {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 51px;
+    text-align: center;
+    color: #414141;
+}
+
+.subtitle {
+    margin-top: 17px;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 28px;
+    text-align: center;
+    color: #6C6C6C;
+}
+
+.priceWrapper {
+    margin-top: 66px;
+    display: flex;
+    justify-content: center;
+}

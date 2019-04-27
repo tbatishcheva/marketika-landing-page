@@ -1,0 +1,50 @@
+.headerWrapper {
+    background-image: url("./header.png");
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    display: flex;
+    justify-content: center;
+    height: 841px; /* height of image*/
+}
+
+.logoWrapper {
+    margin-top: 25px;
+}
+
+.titleWrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.title {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 55px;
+    line-height: 60px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 253px;
+}
+
+.subtitle {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 32px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 18px;
+    max-width: 536px;
+}
+
+.form {
+    margin-top: 43px;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.formInput {
+    margin-right: 40px;
+}

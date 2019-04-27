@@ -1,0 +1,22 @@
+.featuresWrapper {
+    display: flex;
+    justify-content: center;
+    margin-top: 86px;
+    margin-bottom: 132px;
+}
+
+.features {
+    display: flex;
+    /*justify-content: center;*/
+    /*flex-direction: row;*/
+    /*align-items: center;*/
+    /*flex-wrap: wrap;*/
+}
+
+.featureWrapper {
+    margin-right: 37px;
+}
+
+.featureWrapper:last-child {
+    margin-right: 0;
+}
